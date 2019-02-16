@@ -1,0 +1,15 @@
+ua.ita.smartcarservice.dto
+ua.ita.smartcarservice.dto.alerts
+ua.ita.smartcarservice.dto.booking
+ua.ita.smartcarservice.dto.sensors
+ua.ita.smartcarservice.dto.technicalservice
+ua.ita.smartcarservice.service
+ua.ita.smartcarservice.service.alerts
+ua.ita.smartcarservice.service.impl
+ua.ita.smartcarservice.service.impl.alerts
+ua.ita.smartcarservice.service.impl.booking
+ua.ita.smartcarservice.service.impl.sensors
+ua.ita.smartcarservice.service.impl.technicalservice
+ua.ita.smartcarservice.service.sales
+ua.ita.smartcarservice.service.sensors
+ua.ita.smartcarservice.service.technicalservice

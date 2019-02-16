@@ -1,0 +1,13 @@
+ua.ita.smartcarservice.entity
+ua.ita.smartcarservice.entity.alerts
+ua.ita.smartcarservice.entity.booking
+ua.ita.smartcarservice.entity.sales
+ua.ita.smartcarservice.entity.sensors
+ua.ita.smartcarservice.entity.sensors.common
+ua.ita.smartcarservice.entity.technicalservice
+ua.ita.smartcarservice.repository
+ua.ita.smartcarservice.repository.Sales
+ua.ita.smartcarservice.repository.alerts
+ua.ita.smartcarservice.repository.booking
+ua.ita.smartcarservice.repository.sensors
+ua.ita.smartcarservice.repository.technicalservice
